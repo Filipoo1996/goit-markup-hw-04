@@ -533,8 +533,8 @@ a {
     width: 206px;
     height: 80px;
 }
-.header-adress:hover,
-.header-adress:focus {
+.header-adress li:hover,
+.header-adress li:focus {
     fill: #2196f3;
     color: #2196f3;
     cursor: pointer;
