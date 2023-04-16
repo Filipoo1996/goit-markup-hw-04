@@ -84,7 +84,10 @@ body {
     margin-right: 30px;
 }
 
-
+.mail:hover,
+.mail:focus {
+    color: var(--text-color-blue);
+}
 
 .tel {
     display: flex;
@@ -97,7 +100,10 @@ body {
     color: var(--text-color-grey);
 }
 
-
+.tel:hover,
+.tel:focus {
+    color: var(--text-color-blue);
+}
 
 .footer {
     background-color: var(--footer-background-color);
